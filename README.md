@@ -12,6 +12,8 @@
 - I love transforming ideas into seamless mobile applications that users adore.
 - I’m looking to expand my collaborations on native and/or cross-platform development.
 
+---
+
 🔧  Tools & Technologies
 ---
 <div align="center">
