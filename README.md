@@ -14,10 +14,10 @@
 
 ---
 
-🔧  Tools & Technologies
+<h1 align="center">🔧  Tools & Technologies</h1>
 ---
 <div align="center">
-  <table align="center">
+  <table >
     <thead>
       <tr>
         <th colspan="7">Languages & Frameworks</th>
@@ -49,7 +49,7 @@
      <td align="center" width=110>React Native</td>
     </tr>
   </table>
-   <table align="center">
+   <table>
      <thead>
       <tr>
        <th colspan="7">Tools</th>
@@ -100,7 +100,7 @@
       <td align="center" width=110>CodePen</td>
      </tr>
   </table>
-  <table align="center">
+  <table>
     <thead>
       <tr>
         <th colspan="7">Operating Systems</th>
@@ -122,11 +122,11 @@
   </table>
 </div>
 
-🤝 Let's Collaborate
+<h1 align="center">🤝 Let's Collaborate</h1>
 ---
 Excited to connect with fellow developers, designers, and innovators. Let's work together to build amazing mobile experiences that make a difference. Reach out and let's create something awesome! 🚀📱
 
-🌐 Connect with Me:
+<h1 align="center">🌐 Connect with Me:</h1>
 ---
 <em><p align="center">let's get in touch!</p></em>
 <p align="center">
