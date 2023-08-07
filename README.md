@@ -16,7 +16,7 @@
 
 <h1 align="center">🔧  Tools & Technologies</h1>
 ---
-<div align="center">
+<div>
   <table >
     <thead>
       <tr>
