@@ -14,8 +14,9 @@
 
 ---
 
+
+
 <h1 align="center">🔧  Tools & Technologies</h1>
----
 <div align="center">
   <table >
     <thead>
@@ -122,12 +123,14 @@
   </table>
 </div>
 
+
+
 <h1 align="center">🤝 Let's Collaborate</h1>
----
 Excited to connect with fellow developers, designers, and innovators. Let's work together to build amazing mobile experiences that make a difference. Reach out and let's create something awesome! 🚀📱
 
+
+
 <h1 align="center">🌐 Connect with Me:</h1>
----
 <em><p align="center">let's get in touch!</p></em>
 <p align="center">
 <a href="https://linkedin.com/in/ishikanimade/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
