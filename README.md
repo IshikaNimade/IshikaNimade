@@ -17,10 +17,10 @@ I'm Ishika Nimade, a passionate software engineer with a focus on Android app de
 I prioritize clean, maintainable, and reusable code, leveraging comments for clarity and collaboration. I'm well-versed in Android architectures, adapting to project needs for scalability and maintainability. Best practices and defined architectures drive my approach to building robust applications.
 
 🏛️ **Architectures**:
-- MVVM (Model-View-ViewModel): Leveraging the separation of concerns for improved testability and maintainability.
-- MVC (Model-View-Controller): Ensuring clear separation between data, UI, and control flow.
-- MVP (Model-View-Presenter): Facilitating modularization and promoting a clear division of responsibilities.
-- MVI (Model-View-Intent): Handling UI logic through unidirectional data flow for predictability and robustness.
+- MVVM (Model-View-ViewModel): Enhances testability and maintainability via distinct concerns.
+- MVC (Model-View-Controller): Separates data, UI, and control for clarity.
+- MVP (Model-View-Presenter): Promotes modularization and role clarity.
+- MVI (Model-View-Intent): Predictable, robust UI logic via unidirectional data flow.
 
 ---
 
