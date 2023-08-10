@@ -11,10 +11,10 @@ I'm Ishika Nimade, a passionate software engineer with a focus on Android app de
 
 🔭 **Experience**: 1 year of dedicated Android app development.
 
----
-
 👩‍💻 **Coding Style**:
 I prioritize clean, maintainable, reusable code with clear comments. Proficient in Android architectures, adapting for scalability. I rely on best practices and solid architectures to build robust apps.
+
+---
 
 
 🚀 **TechStack**:
