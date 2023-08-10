@@ -24,8 +24,8 @@ I'm committed to writing clean, maintainable, and reusable code. I believe in th
 
 
 
-🚀 **TechStack**:
-  -**Programming**: Java, Kotlin, XML, SQL
+🚀 **TechStack**
+  - **Programming**: Java, Kotlin, XML, SQL
   - **Android Components**: Activity, Services, Content Provider, Broadcast Receiver
   - **Debugging**: Error Handling, Exception, Logging, Threading, Context
   - **Storage**: Room Database, Firebase, Shared Preference, File System
