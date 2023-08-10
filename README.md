@@ -7,22 +7,29 @@
 
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.d4b0936f300957f9e96b6dcb40041c28?rik=AW9umw%2bxjkA95w&riu=http%3a%2f%2fmedia.japanpowered.com%2fimages%2ftyping-animation.gif&ehk=RgIlxfvYPCHNqaxobpJdIkNranSMU5xKAQOEJ1Cs3Xo%3d&risl=&pid=ImgRaw&r=0">
 
-I'm Ishika Nimade, a passionate software engineer with a focus on Android app development.I thrive on crafting captivating user experiences through code and transforming ideas into seamless mobile applications that users adore.I’m looking to expand my collaborations on native and/or cross-platform development.
+I'm Ishika Nimade, a passionate software engineer with a focus on Android app development. I thrive on crafting captivating user experiences through code and transforming ideas into seamless mobile applications that users adore. I’m looking to expand my collaborations on native and/or cross-platform development.
+
+
+
+👩‍💻 **Coding Style**: I'm committed to writing clean, maintainable, and reusable code. I believe in the power of comments to make the codebase more understandable and collaborative.
+
+
 
 🔭 **Experience**: 1 year of dedicated Android app development.
 
-🚀 **TechStack**:
-        - **Programming**: Java, Kotlin, XML, SQL
-        - **Android Components**: Activity, Services, Content Provider, Broadcast Receiver
-        - **Android Architecture**: MVVM, MVC, MVP, MVI
-        - **Debugging**: Error Handling, Exception, Logging, Threading, Context
-        - **Storage**: Room Database, Firebase, Shared Preference, File System
-        - **Jetpack Components**: Ktx, Navigation, View-Model, Architectural Component, Appcompat, Animation and Translation, Work Manager, Paging, Slice
-        - **Libraries**: Image Processing, Dependency Injection (Hilt/Dagger), Retrofit, Coroutines
-        - **Unit Testing**: Local, Instrumental
-        - **Release**: Signed APK
 
-👩‍💻 **Coding Style**: I'm committed to writing clean, maintainable, and reusable code. I believe in the power of comments to make the codebase more understandable and collaborative.
+
+🚀 **TechStack**:
+-**Programming**: Java, Kotlin, XML, SQL
+- **Android Components**: Activity, Services, Content Provider, Broadcast Receiver
+- **Android Architecture**: MVVM, MVC, MVP, MVI
+- **Debugging**: Error Handling, Exception, Logging, Threading, Context
+- **Storage**: Room Database, Firebase, Shared Preference, File System
+- **Jetpack Components**: Ktx, Navigation, View-Model, Architectural Component, Appcompat, Animation and Translation, Work Manager, Paging, Slice
+- **Libraries**: Image Processing, Dependency Injection (Hilt/Dagger), Retrofit, Coroutines
+- **Unit Testing**: Local, Instrumental
+- **Release**: Signed APK
+
 
 ---
 
@@ -135,11 +142,12 @@ I'm Ishika Nimade, a passionate software engineer with a focus on Android app de
   </table>
 </div>
 
-
+---
 
 <h1 align="center">🤝 Let's Collaborate</h1>
 I'm open to expanding my collaborations on native and/or cross-platform Android app development. Excited to connect with fellow developers, designers, and innovators. Let's work together to build amazing mobile experiences that make a difference. Reach out and let's create something awesome! 🚀📱
 
+---
 
 <h1 align="center">🌐 Connect with Me:</h1>
 <em><p align="center">let's get in touch!</p></em>
