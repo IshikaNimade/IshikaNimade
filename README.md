@@ -13,8 +13,8 @@
 - I’m looking to expand my collaborations on native and/or cross-platform development.
 
 - **TechStack:**
-    -**Programming** Java, Kotlin, XML
-    -**Android Components** Activity, Services, Content Provider, Broadcast Reciever
+    - **Programming** Java, Kotlin, XML
+    - **Android Components** Activity, Services, Content Provider, Broadcast Reciever
     - **Storage** Room Database, Firebase, Shared Preference, File system
     - **Libraries** Image Processing, Dependency Injection(Hitl/Dagger), Retrofit, Courotines
     - **Jetpack Component** Ktx, Navigation, View-Model,Architectural Component, Appcompact, Annimation and Translation, Work Manager, Paging and Slice
