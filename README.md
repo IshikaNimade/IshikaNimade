@@ -14,19 +14,13 @@ I'm Ishika Nimade, a passionate software engineer with a focus on Android app de
 ---
 
 👩‍💻 **Coding Style**:
-I prioritize clean, maintainable, and reusable code, leveraging comments for clarity and collaboration. I'm well-versed in Android architectures, adapting to project needs for scalability and maintainability. Best practices and defined architectures drive my approach to building robust applications.
+I prioritize clean, maintainable, reusable code with clear comments. Proficient in Android architectures (MVVM, MVC, MVP, MVI), adapting for scalability. I rely on best practices and solid architectures to build robust apps.
 
-🏛️ **Architectures**:
-- MVVM (Model-View-ViewModel): Enhances testability and maintainability via distinct concerns.
-- MVC (Model-View-Controller): Separates data, UI, and control for clarity.
-- MVP (Model-View-Presenter): Promotes modularization and role clarity.
-- MVI (Model-View-Intent): Predictable, robust UI logic via unidirectional data flow.
-
----
 
 🚀 **TechStack**:
   - **Programming**: Java, Kotlin, XML, SQL
   - **Android Components**: Activity, Services, Content Provider, Broadcast Receiver
+  - **Android Architecture**: MVVM, MVC, MVP, MVI
   - **Debugging**: Error Handling, Exception, Logging, Threading, Context
   - **Storage**: Room Database, Firebase, Shared Preference, File System
   - **Jetpack Components**: Ktx, Navigation, View-Model, Architectural Component, Appcompat, Animation and Translation, Work Manager, Paging, Slice
