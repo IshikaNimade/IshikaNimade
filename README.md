@@ -13,7 +13,7 @@
 - I’m looking to expand my collaborations on native and/or cross-platform development.
 
 - **TechStack:**
-    - **Programming** Java, Kotlin, XML
+    - **Programming** Java, Kotlin, XML, SQL
     - **Android Components** Activity, Services, Content Provider, Broadcast Reciever
     - **Android Architecture** MVVM, MVC, MVP, MVI
     - **Debugging** Error Handling, Exception, Loggin, Threading, Context
