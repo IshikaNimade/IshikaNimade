@@ -20,8 +20,8 @@
     - **Jetpack Component** Ktx, Navigation, View-Model,Architectural Component, Appcompact, Annimation and Translation, Work Manager, Paging and Slice
     - **Android Architecture** MVVM, MVC, MVP, MVI
     - **Debugging** Error Handling, Exception, Loggin, Threading, Context
-    - **Unit Testing** Lacal, Instrumental
-    - -**UI Design**
+    - **Unit Testing** Local, Instrumental
+    - **UI Design**
     - **Release** Signed APK
 
 ---
