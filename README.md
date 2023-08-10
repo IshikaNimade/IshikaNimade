@@ -9,7 +9,9 @@
 
 I'm Ishika Nimade, a passionate software engineer with a focus on Android app development. I thrive on crafting captivating user experiences through code and transforming ideas into seamless mobile applications that users adore. I’m looking to expand my collaborations on native and/or cross-platform development.
 
+🔭 **Experience**: 1 year of dedicated Android app development.
 
+---
 
 👩‍💻 **Coding Style & Architecture**:
 I'm committed to writing clean, maintainable, and reusable code. I believe in the power of comments to make the codebase more understandable and collaborative. Following best practices and adhering to well-defined architectures is essential for building scalable and maintainable applications. I have experience with various Android architectures including MVVM, MVC, MVP, and MVI, and I understand the importance of selecting the right architecture based on the project's requirements.
@@ -20,11 +22,9 @@ I'm committed to writing clean, maintainable, and reusable code. I believe in th
 - MVP (Model-View-Presenter): Facilitating modularization and promoting a clear division of responsibilities.
 - MVI (Model-View-Intent): Handling UI logic through unidirectional data flow for predictability and robustness.
 
-🔭 **Experience**: 1 year of dedicated Android app development.
+---
 
-
-
-🚀 **TechStack**
+🚀 **TechStack**:
   - **Programming**: Java, Kotlin, XML, SQL
   - **Android Components**: Activity, Services, Content Provider, Broadcast Receiver
   - **Debugging**: Error Handling, Exception, Logging, Threading, Context
