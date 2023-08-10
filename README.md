@@ -15,13 +15,12 @@
 - **TechStack:**
     - **Programming** Java, Kotlin, XML
     - **Android Components** Activity, Services, Content Provider, Broadcast Reciever
-    - **Storage** Room Database, Firebase, Shared Preference, File system
-    - **Libraries** Image Processing, Dependency Injection(Hitl/Dagger), Retrofit, Courotines
-    - **Jetpack Component** Ktx, Navigation, View-Model,Architectural Component, Appcompact, Annimation and Translation, Work Manager, Paging and Slice
     - **Android Architecture** MVVM, MVC, MVP, MVI
     - **Debugging** Error Handling, Exception, Loggin, Threading, Context
+    - **Storage** Room Database, Firebase, Shared Preference, File system
+    - **Jetpack Component** Ktx, Navigation, View-Model,Architectural Component, Appcompact, Annimation and Translation, Work Manager, Paging and Slice
+    - **Libraries** Image Processing, Dependency Injection(Hitl/Dagger), Retrofit, Courotines
     - **Unit Testing** Local, Instrumental
-    - **UI Design**
     - **Release** Signed APK
 
 ---
