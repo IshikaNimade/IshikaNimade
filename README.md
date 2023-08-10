@@ -12,6 +12,18 @@
 - I love transforming ideas into seamless mobile applications that users adore.
 - I’m looking to expand my collaborations on native and/or cross-platform development.
 
+- **TechStack:**
+    -**Programming** Java, Kotlin, XML
+    -**Android Components** Activity, Services, Content Provider, Broadcast Reciever
+    - **Storage** Room Database, Firebase, Shared Preference, File system
+    - **Libraries** Image Processing, Dependency Injection(Hitl/Dagger), Retrofit, Courotines
+    - **Jetpack Component** Ktx, Navigation, View-Model,Architectural Component, Appcompact, Annimation and Translation, Work Manager, Paging and Slice
+    - **Android Architecture** MVVM, MVC, MVP, MVI
+    - **Debugging** Error Handling, Exception, Loggin, Threading, Context
+    - **Unit Testing** Lacal, Instrumental
+    - -**UI Design**
+    - **Release** Signed APK
+
 ---
 
 
