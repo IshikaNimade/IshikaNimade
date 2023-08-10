@@ -14,7 +14,7 @@ I'm Ishika Nimade, a passionate software engineer with a focus on Android app de
 ---
 
 👩‍💻 **Coding Style**:
-I prioritize clean, maintainable, reusable code with clear comments. Proficient in Android architectures (MVVM, MVC, MVP, MVI), adapting for scalability. I rely on best practices and solid architectures to build robust apps.
+I prioritize clean, maintainable, reusable code with clear comments. Proficient in Android architectures, adapting for scalability. I rely on best practices and solid architectures to build robust apps.
 
 
 🚀 **TechStack**:
