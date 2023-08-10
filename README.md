@@ -11,24 +11,28 @@ I'm Ishika Nimade, a passionate software engineer with a focus on Android app de
 
 
 
-👩‍💻 **Coding Style**: I'm committed to writing clean, maintainable, and reusable code. I believe in the power of comments to make the codebase more understandable and collaborative.
+👩‍💻 **Coding Style & Architecture**:
+I'm committed to writing clean, maintainable, and reusable code. I believe in the power of comments to make the codebase more understandable and collaborative. Following best practices and adhering to well-defined architectures is essential for building scalable and maintainable applications. I have experience with various Android architectures including MVVM, MVC, MVP, and MVI, and I understand the importance of selecting the right architecture based on the project's requirements.
 
-
+🏛️ **Architectures**:
+- MVVM (Model-View-ViewModel): Leveraging the separation of concerns for improved testability and maintainability.
+- MVC (Model-View-Controller): Ensuring clear separation between data, UI, and control flow.
+- MVP (Model-View-Presenter): Facilitating modularization and promoting a clear division of responsibilities.
+- MVI (Model-View-Intent): Handling UI logic through unidirectional data flow for predictability and robustness.
 
 🔭 **Experience**: 1 year of dedicated Android app development.
 
 
 
 🚀 **TechStack**:
--**Programming**: Java, Kotlin, XML, SQL
-- **Android Components**: Activity, Services, Content Provider, Broadcast Receiver
-- **Android Architecture**: MVVM, MVC, MVP, MVI
-- **Debugging**: Error Handling, Exception, Logging, Threading, Context
-- **Storage**: Room Database, Firebase, Shared Preference, File System
-- **Jetpack Components**: Ktx, Navigation, View-Model, Architectural Component, Appcompat, Animation and Translation, Work Manager, Paging, Slice
-- **Libraries**: Image Processing, Dependency Injection (Hilt/Dagger), Retrofit, Coroutines
-- **Unit Testing**: Local, Instrumental
-- **Release**: Signed APK
+  -**Programming**: Java, Kotlin, XML, SQL
+  - **Android Components**: Activity, Services, Content Provider, Broadcast Receiver
+  - **Debugging**: Error Handling, Exception, Logging, Threading, Context
+  - **Storage**: Room Database, Firebase, Shared Preference, File System
+  - **Jetpack Components**: Ktx, Navigation, View-Model, Architectural Component, Appcompat, Animation and Translation, Work Manager, Paging, Slice
+  - **Libraries**: Image Processing, Dependency Injection (Hilt/Dagger), Retrofit, Coroutines
+  - **Unit Testing**: Local, Instrumental
+  - **Release**: Signed APK
 
 
 ---
