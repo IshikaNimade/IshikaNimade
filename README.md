@@ -49,7 +49,7 @@ I'm Ishika Nimade, a passionate full stack developer specializing in crafting se
      <img height=60 src="https://www.svgrepo.com/download/303360/nodejs-logo.svg"/></td>
      </tr>
     <tr>
-     <td align="center" width=110>JavajavaScript</td>
+     <td align="center" width=110>JavaScript</td>
      <td align="center" width=110>Java</td>
      <td align="center" width=110>MySQL</td>
      <td align="center" width=110>React</td>
