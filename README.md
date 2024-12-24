@@ -140,11 +140,11 @@ Excited to connect with fellow developers, designers, and innovators. Let's work
 <em><p align="center">let's get in touch!</p></em>
 <p align="center">
 <a href="https://linkedin.com/in/ishikanimade/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ishikanimade56@gmail.com" target="_blank"><img align="center" alt="mail" src="https://thumbs.dreamstime.com/b/mail-email-icon-button-13093162.jpg"  width="40" height="40" /></a>
-</p>
-<a href="https://drive.google.com/file/d/1DaFjd4e5tuUygvKIhL8zu5JCFV49piGN/view?usp=drive_link" target="_blank">
+<a href="mailto:ishikanimade56@gmail.com" target="_blank"><img align="center" alt="mail" src="https://bombouche.com/wp-content/uploads/2017/09/direct-mail-button-logo-1.jpg"  width="80" height="40" /></a>
+  <a href="https://drive.google.com/file/d/1DaFjd4e5tuUygvKIhL8zu5JCFV49piGN/view?usp=drive_link" target="_blank">
 <img alt="Resume" src="https://img.shields.io/badge/Resume-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white" />
 </a>
+</p>
 
 ---
 
