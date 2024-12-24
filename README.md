@@ -145,4 +145,4 @@ Excited to connect with fellow developers, designers, and innovators. Let's work
 
 ---
 
-<p align="center">Let's build amazing mobile experiences together! ✨</p>
+<p align="center">Let’s build amazing digital experiences together! ✨</p>
