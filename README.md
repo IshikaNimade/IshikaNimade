@@ -46,7 +46,7 @@ I'm Ishika Nimade, a passionate full stack developer specializing in crafting se
      <td align="center" width=110>
      <img height=60 src="https://www.trion.de/news/2020/05/18/rapid-prototyping-react-native/reactnative_logo.png"/></td>
       <td align="center" width=110>
-     <img height=60 src="https://cdn-icons-png.flaticon.com/512/919/919825.png"/></td>
+     <img height=60 src="https://www.svgrepo.com/download/303360/nodejs-logo.svg"/></td>
      </tr>
     <tr>
      <td align="center" width=110>JavajavaScript</td>
