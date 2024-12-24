@@ -7,11 +7,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.d4b0936f300957f9e96b6dcb40041c28?rik=AW9umw%2bxjkA95w&riu=http%3a%2f%2fmedia.japanpowered.com%2fimages%2ftyping-animation.gif&ehk=RgIlxfvYPCHNqaxobpJdIkNranSMU5xKAQOEJ1Cs3Xo%3d&risl=&pid=ImgRaw&r=0">
 
-I'm Ishika Nimade, a passionate full stack developer specializing in crafting seamless web and mobile experiences. My expertise spans modern frameworks, cloud solutions, and intuitive UI/UX design. I’m always looking to collaborate on innovative projects and build scalable, impactful applications.
+I'm Ishika Nimade, a passionate full stack developer specializing in crafting seamless web and mobile experiences. My expertise spans modern frameworks, cloud solutions, and intuitive UI/UX design. I’m always looking to collaborate on innovative projects and build scalable, impactful sofware.
 
-🔭 **Experience**: 2 years, In building web applications using React, Node, Firebase, and AWS..
+🔭 **Experience**: 2 years in building software using React, Node, Firebase, and AWS.
 
-👩‍💻 **Coding Style**: I prioritize clean, maintainable, scalable, reusable code with clear comments. I rely on best practices and solid architectures to build robust software.
+👩‍💻 **Coding Style**: I prioritize clean, maintainable, scalable and reusable code with clear comments. I rely on best practices and solid architectures to build robust software.
 
 ---
 
@@ -38,28 +38,22 @@ I'm Ishika Nimade, a passionate full stack developer specializing in crafting se
     </thead>
     <tr>
      <td align="center" width=110>
-     <img height=60 src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png"/></td>
+     <img height=60 src="https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small/javascript-logo-javascript-icon-transparent-free-png.png"/></td>
      <td align="center" width=110>
      <img height=60 src="https://th.bing.com/th/id/R.31ccf6b00ca06840c2e131bf2bc00a40?rik=VQlxmxQmDTQnCQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fjava-png-java-icon-1600.png&ehk=Ken84AvpJ83RtHDABENcApKB7bycz9ZpTDmKurCwCPU%3d&risl=&pid=ImgRaw&r=0"/></td>
      <td align="center" width=110>
-     <img height=60 src="https://styles.redditmedia.com/t5_22y58b/styles/communityIcon_r5ax236rfw961.png"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://dwglogo.com/wp-content/uploads/2018/03/SQLite_Vector_logo.png"/></td>
-     <td align="center" width=110>
      <img height=60 src="https://pngimg.com/uploads/mysql/mysql_PNG22.png"/></td>
      <td align="center" width=110>
-     <img height=60 src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png"/></td>
-     <td align="center" width=110>
      <img height=60 src="https://www.trion.de/news/2020/05/18/rapid-prototyping-react-native/reactnative_logo.png"/></td>
+      <td align="center" width=110>
+     <img height=60 src="https://cdn-icons-png.flaticon.com/512/919/919825.png"/></td>
      </tr>
     <tr>
-     <td align="center" width=110>Kotlin</td>
+     <td align="center" width=110>JavajavaScript</td>
      <td align="center" width=110>Java</td>
-     <td align="center" width=110>Fast-API</td>
-     <td align="center" width=110>SQLite</td>
      <td align="center" width=110>MySQL</td>
-    <td align="center" width=110>Android Native</td>
-     <td align="center" width=110>React Native</td>
+     <td align="center" width=110>React</td>
+     <td align="center" width=110>Node</td>
     </tr>
   </table>
    <table>
