@@ -1,32 +1,27 @@
 ![MasterHead](IshikaNimade/Header.png)
 
-<h3 align="center">🚀 Android Developer | Crafting Digital Experiences 📱</h3>
+<h3 align="center">🚀 Full Stack Developer | Crafting Digital Solutions 🌐</h3>
 <h1 align="center">Hello Folks ! <img src="IshikaNimade/Hi.gif" width="29px"></h1>
 
 ---
 
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.d4b0936f300957f9e96b6dcb40041c28?rik=AW9umw%2bxjkA95w&riu=http%3a%2f%2fmedia.japanpowered.com%2fimages%2ftyping-animation.gif&ehk=RgIlxfvYPCHNqaxobpJdIkNranSMU5xKAQOEJ1Cs3Xo%3d&risl=&pid=ImgRaw&r=0">
 
-I'm Ishika Nimade, a passionate software engineer with a focus on Android app development. I thrive on crafting captivating user experiences through code and transforming ideas into seamless mobile applications that users adore. I’m looking to expand my collaborations on native and/or cross-platform development.
+I'm Ishika Nimade, a passionate full stack developer specializing in crafting seamless web and mobile experiences. My expertise spans modern frameworks, cloud solutions, and intuitive UI/UX design. I’m always looking to collaborate on innovative projects and build scalable, impactful applications.
 
-🔭 **Experience**: 1 year of dedicated Android app development.
+🔭 **Experience**: 2 years, In building web applications using React, Node, Firebase, and AWS..
 
-👩‍💻 **Coding Style**:
-I prioritize clean, maintainable, reusable code with clear comments. Proficient in Android architectures, adapting for scalability. I rely on best practices and solid architectures to build robust apps.
+👩‍💻 **Coding Style**: I prioritize clean, maintainable, scalable, reusable code with clear comments. I rely on best practices and solid architectures to build robust software.
 
 ---
 
 
 🚀 **TechStack**:
-  - **Programming**: Java, Kotlin, XML, SQL
-  - **Android Components**: Activity, Services, Content Provider, Broadcast Receiver
-  - **Android Architecture**: MVVM, MVC, MVP, MVI
-  - **Debugging**: Error Handling, Exception, Logging, Threading, Context
-  - **Storage**: Room Database, Firebase, Shared Preference, File System
-  - **Jetpack Components**: Ktx, Navigation, View-Model, Architectural Component, Appcompat, Animation and Translation, Work Manager, Paging, Slice
-  - **Libraries**: Image Processing, Dependency Injection (Hilt/Dagger), Retrofit, Coroutines
-  - **Unit Testing**: Local, Instrumental
-  - **Release**: Signed APK
+  - **Frontend**: React.js, React Native, HTML, CSS, JavaScript, TypeScript
+  - **Backend**: Node.js, java, Spring Boot
+  - **Database**: MongoDB, DynamoDB, SQL
+  - **Cloud**: AWS(Lambda, CloudFormation, CloudWatch, S3, EC2), FireBase
+  - **Tools**: Git, GitHub, Jira, VSCode, IntelliJ, Postman
 
 
 ---
@@ -143,7 +138,7 @@ I prioritize clean, maintainable, reusable code with clear comments. Proficient 
 ---
 
 <h1 align="center">🤝 Let's Collaborate</h1>
-Excited to connect with fellow developers, designers, and innovators. Let's work together to build amazing mobile experiences that make a difference. Reach out and let's create something awesome! 🚀📱
+Excited to connect with fellow developers, designers, and innovators. Let's work together to build amazing web experiences that make a difference. Reach out and let's create something awesome! 🚀📱
 
 ---
 
@@ -152,7 +147,6 @@ Excited to connect with fellow developers, designers, and innovators. Let's work
 <p align="center">
 <a href="https://linkedin.com/in/ishikanimade/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ishikanimade56@gmail.com" target="_blank"><img align="center" alt="linkedin" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" /></a>
-<a href="https://drive.google.com/file/d/1DaFjd4e5tuUygvKIhL8zu5JCFV49piGN/view?usp=drive_link" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 </p>
 
 
